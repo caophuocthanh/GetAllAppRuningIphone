@@ -1,5 +1,5 @@
-# GetAllAppRuningIphone
-get all app runing iphone.include : deamon, app
+//GetAllAppRuningIphone
+//get all app runing iphone.include : deamon, app
 
 
 #import "ViewController.h"
